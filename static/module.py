@@ -29,7 +29,7 @@ class Card(object):
     def get_timestamp(self):
         return self.__timestamp
     def set_timestamp(self, value):
-        self.__timestamp = value
+        self.__timestamp = valuex
     def set_known(self, flag):
         self.__known = flag
     def get_known(self):
